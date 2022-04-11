@@ -1,1 +1,1 @@
-# story2
+# This folders contains all react native apps.
