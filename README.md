@@ -1,1 +1,1 @@
-# This folders contains all react native apps.
+# This folders contains all react native applications and useful tips
